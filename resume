@@ -1,0 +1,18 @@
+name: Andrew Nicolau
+# Info to show in header
+email: Andrew.Nicolau@gmail.com
+phone: (512) 743-5739
+Location: Austin, Texas
+# Header introduction / mission statement
+intro: Motivated and detail-oriented individual with a strong passion for technology, seeking to leverage excellent problem-solving skills and customer-centric approach to excel in an entry-level Helpdesk IT role. Eager to learn, adapt, and contribute positively to support team efficiency and user satisfaction.
+proficiencies:
+  # - list item
+  - Project Management
+  - Adaptability
+  - Data-Analytics
+  - Communication
+  - Creativity
+  - Strategic thinking
+# Links to include in header
+Links:
+  # text: https://www.linkedin.com/in/andrew-nicolau/
